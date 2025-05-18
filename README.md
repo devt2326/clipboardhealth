@@ -15,6 +15,8 @@ Clipboard Health aims to match healthcare workers with open shifts. Despite a st
 
 This project investigates root causes behind these numbers and provides actionable insights to improve claim rates and reduce deletions.
 
+Data: https://docs.google.com/spreadsheets/d/1sGa4oxX3wC2gbGBkUF_G5p_kBzHlKU_p84W9roV7620/edit?usp=sharing
+
 ---
 
 ## 🧠 Key Questions Answered
